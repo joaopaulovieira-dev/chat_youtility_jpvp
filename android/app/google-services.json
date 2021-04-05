@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "917114252837",
+    "project_id": "chat-youtility-jpvp",
+    "storage_bucket": "chat-youtility-jpvp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917114252837:android:968e70d2c84d231a8e99cc",
+        "android_client_info": {
+          "package_name": "dev.joaopaulovieira.chat_youtility_jpvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917114252837-ksn564i15vv2ipeb1gb6rv7vk5inubtr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2ErnL0yXUtcC-o2yWPN5OL7VHQ9AiuTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917114252837-ksn564i15vv2ipeb1gb6rv7vk5inubtr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

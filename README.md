@@ -1,5 +1,6 @@
 # chat_youtility_jpvp
 [![style: lint](https://img.shields.io/badge/style-lint-4BC0F5.svg)](https://pub.dev/packages/lint)
+[![wakatime](https://wakatime.com/badge/github/joaopaulovieira-dev/chat_youtility_jpvp.svg)](https://wakatime.com/badge/github/joaopaulovieira-dev/chat_youtility_jpvp)
 
 
 A new Flutter project.

@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/github/joaopaulovieira-dev/chat_youtility_jpvp.svg)](https://wakatime.com/badge/github/joaopaulovieira-dev/chat_youtility_jpvp)[![GitHub issues](https://img.shields.io/github/issues/joaopaulovieira-dev/chat_youtility_jpvp)](https://github.com/joaopaulovieira-dev/chat_youtility_jpvp/issues)[![GitHub forks](https://img.shields.io/github/forks/joaopaulovieira-dev/chat_youtility_jpvp)](https://github.com/joaopaulovieira-dev/chat_youtility_jpvp/network)[![GitHub stars](https://img.shields.io/github/stars/joaopaulovieira-dev/chat_youtility_jpvp)](https://github.com/joaopaulovieira-dev/chat_youtility_jpvp/stargazers)[![GitHub license](https://img.shields.io/github/license/joaopaulovieira-dev/chat_youtility_jpvp)](https://github.com/joaopaulovieira-dev/chat_youtility_jpvp)
 
-> Status do Projeto: Concluido :heavy_check_mark:
+> Status do Projeto: Concluído v1.0.1+2 :heavy_check_mark:
 
 <img src="https://joaopaulovieira.dev/img_github/Presentation.png">
 

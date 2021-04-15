@@ -38,4 +38,4 @@ Aplicação de caráter corporativo desenvolvida no intuito de facilitar a comun
 :trophy: Gerenciar o link disponível e em caso de indisponibilidade automaticamente realizar a troca para um link disponível.
 
 
-### Feito com ♥ em Flutter!
+### Feito com ♥ e Flutter!

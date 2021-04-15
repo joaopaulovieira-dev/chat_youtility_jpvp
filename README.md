@@ -4,6 +4,8 @@
 
 > Status do Projeto: Concluido :heavy_check_mark:
 
+<img src="https://joaopaulovieira.dev/img_github/Presentation.png">
+
 ## Link do Apps na Playstore:
 
 [Chat Youtility - Suporte Remoto](https://play.google.com/store/apps/details?id=dev.joaopaulovieira.chat_youtility_jpvp)

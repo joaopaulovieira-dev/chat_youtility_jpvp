@@ -31,6 +31,9 @@
 .pub/
 /build/
 
+# Para todos os arquivos e sub-pastas localizados na pasta apk
+apk/
+
 # Web related
 lib/generated_plugin_registrant.dart
 
